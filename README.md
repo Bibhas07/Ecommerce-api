@@ -53,14 +53,14 @@ API Endpoints
 URL: POST /products/create
 Request Body
 json
-Copy code
 {
   "name": "Product Name",
   "quantity": 10
 }
-Response (Success)
+
+Response (Success)  
 json
-Copy code
+
 {
   "success": true,
   "message": "Product added successfully!",
