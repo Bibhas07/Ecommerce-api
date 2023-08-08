@@ -200,5 +200,3 @@ Contributions to the project are welcome! If you'd like to contribute, feel free
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Congratulations! You now have a comprehensive README file that provides all the necessary information about your Ecommerce Platform Admin API project. This README will help users and potential contributors understand how to set up the project, use the API, and contribute to its development. Good luck with your project!
