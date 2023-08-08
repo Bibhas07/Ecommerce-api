@@ -1,5 +1,7 @@
 version: 1
 buildCommand: yarn
 env:
+  - key: NODE_ENV
+    value: production
   - key: NODE_VERSION
-    value: "16.15.1"
+    value: "14.20.1"
